@@ -1,0 +1,3 @@
+ -Xms64m -Xmx2000m
+NYC_Immigration_Installation_ALT_SERIAL_drum
+NYC_Immigration_Installation_ALT_SERIAL_drum.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-i586.jar,gluegen-rt-natives-windows-i586.jar,RXTXcomm.jar,serial.jar
